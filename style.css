@@ -1,0 +1,23 @@
+h1 {
+    background-color: lightblue;
+    font-family: fantasy;
+    color: orange;
+    text-transform: uppercase;
+}
+
+.box {
+    height: 350px;
+    width: 1000px;
+
+    overflow: hidden;
+    position: relative;
+    background-color: #e9e5fb;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 8px 0 4px 0;
+}
+
+P {
+    background-color: lightblue;
+    font-family: sans-serif;
+}
